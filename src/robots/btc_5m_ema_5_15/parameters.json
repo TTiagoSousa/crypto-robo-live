@@ -1,0 +1,9 @@
+{
+    "SYMBOL": "BTCUSDT",
+    "INTERVAL": "1",
+    "LIMIT": 1000,
+    "entry_price": null,
+    "stop_loss": null,
+    "take_profit": null,
+    "trade_amount": 0.0
+}
