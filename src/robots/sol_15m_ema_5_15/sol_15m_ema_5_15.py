@@ -1,7 +1,6 @@
 import time
 import os
 import json
-# Vamos supor que você queira manter esse intervalo como se fosse o "tempo de cada candle"
 SLEEP_TIME = 5
 
 def sol_15m_ema_5_15 ():
